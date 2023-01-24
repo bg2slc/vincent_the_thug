@@ -7,7 +7,7 @@ corresponding modifiers.
 
 # but... why?
 if i decide to continue work on this, it will be a much more comprehensive
-stat block formatter for DnD 5e, which could be helpful for designing DnD
+stat block formatter for D&D 5e, which could be helpful for designing D&D
 encounters as a DM.
 
 For now, it does a relatively simple task, and it's a neat thing I can do as a
